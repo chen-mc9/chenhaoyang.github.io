@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chy.github.io</id>
+    <id>https://chen-mc9.github.io/chy.github.io/</id>
     <title>chy</title>
-    <updated>2020-08-18T01:27:11.593Z</updated>
+    <updated>2020-08-18T01:40:11.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chy.github.io"/>
-    <link rel="self" href="https://chy.github.io/atom.xml"/>
+    <link rel="alternate" href="https://chen-mc9.github.io/chy.github.io/"/>
+    <link rel="self" href="https://chen-mc9.github.io/chy.github.io/atom.xml"/>
     <subtitle>十步一行码，难以不bug</subtitle>
-    <logo>https://chy.github.io/images/avatar.png</logo>
-    <icon>https://chy.github.io/favicon.ico</icon>
+    <logo>https://chen-mc9.github.io/chy.github.io/images/avatar.png</logo>
+    <icon>https://chen-mc9.github.io/chy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, chy</rights>
     <entry>
         <title type="html"><![CDATA[win10美化自用]]></title>
-        <id>https://chy.github.io/post/win10-mei-hua-zi-yong/</id>
-        <link href="https://chy.github.io/post/win10-mei-hua-zi-yong/">
+        <id>https://chen-mc9.github.io/chy.github.io/post/win10-mei-hua-zi-yong/</id>
+        <link href="https://chen-mc9.github.io/chy.github.io/post/win10-mei-hua-zi-yong/">
         </link>
         <updated>2020-08-18T01:15:14.000Z</updated>
         <content type="html"><![CDATA[<p>win10美化是怎么回事呢，小编也不知道，好了这就是这期xxxxx的内容，再见<br>
@@ -25,13 +25,13 @@ fences桌面分类<br>
 嗯<br>
 就这😀<br>
 顺便附上我的截图<br>
-<img src="https://chy.github.io/post-images/1597713830792.png" alt="" loading="lazy"></p>
+<img src="https://chen-mc9.github.io/chy.github.io//post-images/1597713830792.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[win10优化自用]]></title>
-        <id>https://chy.github.io/post/win10-you-hua-zi-yong/</id>
-        <link href="https://chy.github.io/post/win10-you-hua-zi-yong/">
+        <id>https://chen-mc9.github.io/chy.github.io/post/win10-you-hua-zi-yong/</id>
+        <link href="https://chen-mc9.github.io/chy.github.io/post/win10-you-hua-zi-yong/">
         </link>
         <updated>2020-08-18T01:15:14.000Z</updated>
         <content type="html"><![CDATA[<p>win10优化是怎么回事呢，小编也不知道，好了这就是这期xxxxx的内容，再见<br>
@@ -43,13 +43,13 @@ fences桌面分类<br>
 嗯<br>
 就这😀<br>
 顺便附上我的截图<br>
-<img src="https://chy.github.io/post-images/1597713830792.png" alt="" loading="lazy"></p>
+<img src="https://chen-mc9.github.io/chy.github.io//post-images/1597713830792.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://chy.github.io/post/hello-gridea/</id>
-        <link href="https://chy.github.io/post/hello-gridea/">
+        <id>https://chen-mc9.github.io/chy.github.io/post/hello-gridea/</id>
+        <link href="https://chen-mc9.github.io/chy.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
